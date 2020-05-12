@@ -1,8 +1,8 @@
-# Storage Node Downtime Tracking
+# Storage Node Downtime Tracking With Audits
 
 ## Abstract
 
-This document describes a means of tracking storage node downtime and using this information to suspend and disqualify.
+This document describes a means of tracking storage node downtime with audits and using this information to suspend and disqualify.
 
 ## Background
 
